@@ -1,0 +1,48 @@
+/* colour-palette {
+  black: #000000,
+  midnight-blue: #14213D,
+  orange: #FCA311,
+  moon-grey: #E5E5E5,
+  white: #FFFFFF
+} */
+
+.App {
+  text-align: left;
+}
+
+@font-face {
+  font-family: exo2;
+  src: url(../public/Fonts/Exo_2/Exo2-VariableFont_wght.ttf);
+}
+
+.exo2 {
+  font-family: exo2;
+}
+
+body {
+  background: linear-gradient(0deg, #000000, #14213D);
+  height: 2000vh;
+  width: 100%;
+}
+
+h1 {
+  color: #E5E5E5;
+  font-family: exo2;
+  font-weight: 900;
+  margin: 5px 2px 1px 2px;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-family: exo2;
+  font-weight: 400;
+  margin: 5px 2px 1px 2px;
+}
+
+.welcome-greeting {
+  font-size: 100px;
+}
+
+.welcome-title {
+  font-size: 50px;
+}
