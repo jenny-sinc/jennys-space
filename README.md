@@ -16,13 +16,5 @@
   - **What went poorly:**
     * Trying to do everything at once. I need to start small & work up
 
-# 🔨 In progress:
-### 🐕 space walk 🐕
-  - **Project type:** Side-scroller game
-  - **Tech:** Python, pygame
-  - **Description:** Take my dog Doug on a walk, but be warned - he's reactive! You'll need to avoid oncoming enemies (dogs, cats, squirrels), collect treats, and try to enjoy your walk without exploding!
-
-
-
 #  📋 In Future:
 ❓ TBC
